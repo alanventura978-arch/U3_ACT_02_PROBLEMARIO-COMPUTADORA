@@ -4,7 +4,7 @@ Integrantes:
 González López, Meyli Y.; 
 Herrera Bolaina, Sergio. ;
 Ramos Ventura, Alan.;
-Sánchez Romero, Daniel.;
+Sánchez Romero, Daniel.
 
 Contexto del problema:
 
