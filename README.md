@@ -16,6 +16,6 @@ Presenta al usuario el propósito del programa y los casos disponibles.
 
 Solicita las dimensiones geométricas de la sección (como base, altura, espesor o radios) en metros.
 
-Calcula los momentos de inercia (I_x, I_y) y aplica la fórmula del esfuerzo normal total para puntos críticos de la geometría
+Calcula los momentos de inercia ($I_x$, $I_y$) y aplica la fórmula del esfuerzo normal total para puntos críticos de la geometría
 
 Muestra en pantalla el valor del esfuerzo normal total en Pascales (Pa) e indica si el punto se encuentra bajo tensión o compresión.
