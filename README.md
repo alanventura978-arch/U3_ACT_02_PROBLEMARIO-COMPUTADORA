@@ -8,7 +8,7 @@ Sánchez Romero, Daniel.
 
 Contexto del problema:
 
-Se analiza una barra elongada de 80 cm de longitud con diferentes configuraciones de sección transversal (Caso "a": Sección L, Caso "b": Sección I, y Caso "c": Sección Circular Hueca). Estos elementos están sometidos a momentos flexionantes combinados ($M_x = 100 Nm$ y $M_y = 50 Nm$), lo que genera esfuerzos de tensión y compresión que deben ser calculados con precisión sobre el centroide de la sección compuesta
+Se analiza una barra elongada de 80 cm de longitud con diferentes configuraciones de sección transversal (Caso "a": Sección L, Caso "b": Sección I, y Caso "c": Sección Circular Hueca). Estos elementos están sometidos a momentos flexionantes combinados ($M_x$ = $100 Nm$ y $M_y$= $50 Nm$), lo que genera esfuerzos de tensión y compresión que deben ser calculados con precisión sobre el centroide de la sección compuesta
 
 Funcionamiento del Código:
 
